@@ -1,0 +1,7 @@
+Aaron Hartt
+1/30/2026
+ECSE 395 Week 3
+
+1/30: This week we worked as a group to better understand our problem and needs, which will later help us design a more fitting solution for the end user. I expanded on the project background, Sanzhar put together a needs statement, Evan created two personas representing typical users who could benefit from our future solution, and Shane took lead in affinity clustering and key insights. Now that we have framed the nuances of our problem, I am looking forward to brainstorming some solutions in the weeks to come.
+
+1/30: I thought the guest lecture was very interesting and touched on a topic I have thought a lot about. Last summer I worked as an intern at a building engineering company, where one of my tasks was to learn and apply rules from the National Electric Code. I have wondered how such a massive book full of engineering standards came to be; was it created by engineers who work with the subject matter or a higher-level government authority? This lecture answered many of my questions and made me realize the importance of agreeing on standards in order to scale a project and cooperate more efficiently with other engineers across the country or world.
