@@ -1,3 +1,15 @@
+## Table of contents
+his is a list of weekly additions to the lab notebook regarding the semester project. All important information about weekly progress will be found in the following md files.
+
+| Week 1 | ["Week1.md"](Week1.md) |
+| Week 2 | ["Week2.md"](Week2.md) |
+| Week 3 | ["Week3.md"](Week3.md) |
+| Week 4 |
+
+
+
+## Time reporting and reflection
+
 1/30: Lab 3 Time reporting and reflection
 
 1. 2 hours 30 minutes
